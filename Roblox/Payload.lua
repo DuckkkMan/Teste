@@ -3,3 +3,5 @@
 
 local ServerStorage = game:GetService("ServerStorage")
 ServerStorage:SetAttribute("GitHubPayloadExecuted", true)
+
+print("Banana Boy")
